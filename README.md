@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### I'm Taylor Furman a hobbiest software engineer
-- 🔭 I’m currently working on running dashboard
+- 🔭 I’m currently working on a running app
 - 🌱 I’m currently learning React
-- ⚡ Fun fact: I love video games, running :running:, brewing beer, and cooking
+- ⚡ Fun fact: I love video games :feelsgood:, running :running:, brewing beer :beer:, collecting vinyl records :saxophone:, and cooking :ramen:
 
 <!--
 **TaylorFurman/TaylorFurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
