@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I'm Taylor Furman a hobbiest software engineer
+### I'm Taylor Furman a software engineer who is excited to create something unique!
 - 🔭 I’m currently working on a running app
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, JavaScript, and MatrialUI
 - ⚡ Fun fact: I love video games :feelsgood:, running :running:, brewing beer :beer:, collecting vinyl records :saxophone:, and cooking :ramen:
 
 <!--
