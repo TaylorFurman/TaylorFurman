@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning React, JavaScript, and MatrialUI
 - ⚡ Fun fact: I love video games :feelsgood:, running :running:, brewing beer :beer:, collecting vinyl records :saxophone:, and cooking :ramen:
 
+
+![Alt Text](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
+
 <!--
 **TaylorFurman/TaylorFurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
