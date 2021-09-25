@@ -2,7 +2,7 @@
 
 ### I'm Taylor Furman a software engineer who is excited to create something unique!
 - 🔭 I’m currently working on a running app
-- 🌱 I’m currently learning React, JavaScript, and MatrialUI
+- 🌱 I’m currently learning React, JavaScript, and Material-UI
 - ⚡ Fun fact: I love video games :feelsgood:, running :running:, brewing beer :beer:, collecting vinyl records :saxophone:, and cooking :ramen:
 
 ![](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
