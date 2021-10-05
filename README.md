@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning React, React-Native, JavaScript, and Material-UI
 - ⚡ Fun fact: I love video games :feelsgood:, running :running:, brewing beer :beer:, collecting vinyl records :saxophone:, and cooking :ramen:
 
-![](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
 
 <!--
