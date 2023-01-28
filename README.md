@@ -2,7 +2,7 @@
 
 ### I'm Taylor Furman, a Software Engineer II at The Home Depot!
 - 🔭 I’m currently working on a running app
-- 🌱 I’m currently learning React, React-Native, JavaScript, Go, and Material-UI
+- 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I love video games :feelsgood:, running :running:, brewing beer :beer:, collecting vinyl records :saxophone:, and cooking :ramen:
 
 
